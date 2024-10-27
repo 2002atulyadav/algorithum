@@ -14,6 +14,7 @@ void maxtrixExpo(){
             cin>>arr[i][j];
         }
     }
+    
 
 }
 
